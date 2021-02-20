@@ -14,14 +14,12 @@ Here you can find the config files that i store in *tilde/.config/* or *tilde/*.
 - featuring [Dracula theme](https://draculatheme.com/)
 
 ### Some screenshots follow:
-:warning: TO BE UPDATED :warning:
 ![Browser workspace](screen/screenshot_1.png)
 ![Terminals workspace](screen/screenshot_2.png)
 ![Coding workspace](screen/screenshot_3.png)
 ![Gimp workspace](screen/screenshot_4.png)
 ![Chatting workspace with WhatsApp](screen/screenshot_5.png)
 ![Blank workspace](screen/screenshot_6.png)
-:warning:
 
 ### Conclusions
 This setup led to an increase in coding productivity and allowed me to understand a bit better how linux can be customized.
