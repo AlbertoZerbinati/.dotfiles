@@ -1,7 +1,7 @@
 # linux-.files
 
-I'm using a Linux Mint installation with **i3-gaps** window manager, **rofi**, **picom**, **oh-my-zsh**.
-Here you can find the config files that i store in *tilde/.config/* or *tilde/*.
+I'm using a Linux Mint installation with **i3-gaps** window manager, **polybar**, **rofi**, **picom**, **oh-my-zsh**.
+Here you can find the configuration files (*dotfiles*) that I store in *tilde/.config/* or *tilde/*.
 
 ### Features:
 - multiple, smart workspaces, where each app knows where to spawn
@@ -13,7 +13,7 @@ Here you can find the config files that i store in *tilde/.config/* or *tilde/*.
 - incredibly intuitive shortcuts
 - featuring [Dracula theme](https://draculatheme.com/)
 
-### Some screenshots follow:
+### Some [OLD] screenshots follow:
 ![Browser workspace](screen/screenshot_1.png)
 ![Terminals workspace](screen/screenshot_2.png)
 ![Coding workspace](screen/screenshot_3.png)
@@ -21,8 +21,6 @@ Here you can find the config files that i store in *tilde/.config/* or *tilde/*.
 ![Chatting workspace with WhatsApp](screen/screenshot_5.png)
 ![Blank workspace](screen/screenshot_6.png)
 
-### Conclusions
-This setup led to an increase in coding productivity and allowed me to understand a bit better how linux can be customized.
-
 ### TODO:
-- improve zsh functionalities through plug-ins
+- update screenshots
+- setup polybar

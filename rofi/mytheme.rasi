@@ -17,7 +17,7 @@ configuration {
 }
 
 #window {
-    font:               "fira code 15";
+    font:               "fira code bold 15";
     padding:            700;
     transparency:       "real";
 	background-color:   #24273A88;
