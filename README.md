@@ -1,4 +1,4 @@
-# linux-config-
+# linux-.files
 
 I'm using a Linux Mint installation with **i3-gaps** window manager, **rofi**, **picom**, **oh-my-zsh**.
 Here you can find the config files that i store in *tilde/.config/* or *tilde/*.
